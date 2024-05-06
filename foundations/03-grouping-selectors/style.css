@@ -1,0 +1,22 @@
+/*
+.clicky {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+*/
+
+.first,
+.second {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.first {
+    background-color: rgb(27, 27, 27);
+    color: white;
+    font-weight: bold;
+}
+
+.second {
+    background-color: hsl(49, 95%, 59%);
+}
